@@ -1,0 +1,17 @@
+The cloud is a computer located somewhere else. The cloud is scalable. The cloud is elastic. The cloud is pay as you go. To be an architect is to build. To be an architect is to design. To be an architect is to understand trade-offs. We do not just build servers; we build systems. We do not just write code; we solve problems.
+
+AWS is a cloud provider. AWS provides EC2 for compute. AWS provides S3 for storage. AWS provides RDS for databases. EC2 is a virtual machine. EC2 is scalable. EC2 is expensive if you forget to turn it off. S3 is an object store. S3 is cheap. S3 is durable. S3 buckets must be unique. IAM is security. IAM is identity. IAM is the firewall for humans. Security is job zero. Security is not an afterthought. Security is difficult.
+
+A developer writes code. A developer pushes to git. A developer breaks production. An architect fixes production. An architect prevents the break. Deployment is risky. Deployment is necessary. Deployment should be automated. We use Docker to contain apps. Docker is a container. Docker is lightweight. Docker is consistent. If it works on my machine, it works on Docker.
+
+Latency is the enemy. Latency is slow. Latency kills user experience. We use caching to fix latency. We use CDNs to fix latency. High availability means the system is up. High availability means redundancy. Redundancy costs money. Redundancy saves reputation.
+
+The database is the heart of the system. The database must be backed up. The database must be secure. SQL is structured. NoSQL is flexible. DynamoDB is fast. DynamoDB is serverless. Lambda is serverless. Serverless means no servers to manage. Serverless means event-driven. Serverless scales to zero.
+
+Python is a language. Python is simple. Python is powerful. We use Python to automate. We use Python to build AI. AI is just math. AI is prediction. AI is not magic. AI needs data. Data is the new oil. Data must be clean. Data must be governed.
+
+The project manager tracks time. The project manager tracks budget. The architect tracks technical debt. Technical debt is interest. Technical debt must be paid. Bad code is debt. No documentation is debt. Manual deployment is debt. Automation is the cure. Documentation is the cure. Testing is the cure.
+
+We are ready to build. We are ready to learn. We are ready to deploy. The cloud waits for no one. Start the instance. Check the logs. Monitor the metrics. If the CPU is high, scale out. If the memory is low, scale up. If the bill is high, optimize. Cost optimization is a skill. Performance tuning is a skill. Security auditing is a skill.
+
+Hello world. Hello cloud. Hello future. The system is online. The system is healthy. The system is secure. End of line.
