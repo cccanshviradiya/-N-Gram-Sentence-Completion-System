@@ -37,6 +37,15 @@ Users can:
 ---
 
 ## 📂 Project Structure
+ngram-sentence-completion/
+│
+├── app.py                  # Streamlit application (UI + logic)
+├── test_text.txt           # Default training corpus
+├── requirements.txt        # Project dependencies
+├── README.md               # Project documentation
+└── .gitignore              # (Optional) Ignore venv and cache files
+
+
 
 
 
