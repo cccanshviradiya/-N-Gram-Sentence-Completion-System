@@ -1,11 +1,11 @@
-# 🧠 N-Gram Sentence Completion System
+#  N-Gram Sentence Completion System
 
 A simple **N-gram based sentence completion system** built from scratch using **Python** and deployed with **Streamlit**.  
 This project demonstrates how statistical language models work without using any machine learning libraries.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This application predicts the next words of a sentence based on previously seen word sequences from a training text file.  
 It uses a **4-gram language model** with **backoff strategy** and **temperature-based sampling**.
@@ -17,7 +17,7 @@ Users can:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Implement an N-gram language model from scratch
 - Understand statistical text generation
@@ -26,7 +26,7 @@ Users can:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3
 - Streamlit
@@ -36,7 +36,7 @@ Users can:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ngram-sentence-completion/
 │
 ├── app.py                  # Streamlit application (UI + logic)
@@ -45,16 +45,7 @@ ngram-sentence-completion/
 ├── README.md               # Project documentation
 └── .gitignore              # (Optional) Ignore venv and cache files
 
-
-
-
-
-
-
-
----
-
-## 📄 Dataset
+##  Dataset
 
 - Input data is a plain text (`.txt`) file
 - Default dataset: `test_text.txt`
@@ -68,7 +59,7 @@ ngram-sentence-completion/
 
 ---
 
-## 🧩 Model Details
+##  Model Details
 
 - **Model Type:** Statistical Language Model
 - **N-Gram Size:** 4 (4-gram)
@@ -78,7 +69,7 @@ ngram-sentence-completion/
 
 ---
 
-## 🔄 Backoff Strategy
+##  Backoff Strategy
 
 If a 4-gram context is not found:
 - Fall back to 3-gram
@@ -88,7 +79,7 @@ If a 4-gram context is not found:
 
 ---
 
-## 🎛️ Temperature Sampling
+##  Temperature Sampling
 
 Temperature controls randomness in word selection:
 
@@ -100,7 +91,7 @@ Temperature controls randomness in word selection:
 
 ---
 
-## 🌐 Streamlit Interface
+##  Streamlit Interface
 
 ### Features:
 - File upload (`.txt`)
@@ -111,7 +102,7 @@ Temperature controls randomness in word selection:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install dependencies
 ```bash
